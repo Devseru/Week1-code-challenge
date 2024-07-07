@@ -1,8 +1,8 @@
 # Table of Contents
 
-Student Grade Calculator
-Speed Check and Demerit Points
-Net Salary Calculator
+-Student Grade Calculator
+-Speed Check and Demerit Points
+-Net Salary Calculator
 
 # Student Grade Calculator
 This program helps you determine a student's grade based on their marks. Enter the marks, and the program will output the corresponding grade.
